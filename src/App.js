@@ -1,10 +1,12 @@
 import './index.css';
-import './App.css';
 import Navbar from './Navigation/Navbar.js'
-
+import Example from './Example/Example'
 function App() {
   return (
-    <Navbar />
+    <div>
+      <Navbar />
+      < Example />
+    </div>
   );
 }
 
