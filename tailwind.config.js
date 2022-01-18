@@ -1,5 +1,5 @@
 module.exports = {
-  content: ["./src/Navigation"],
+  content: ["./src/Navigation/*.js"],
   theme: {
     extend: {},
   },
